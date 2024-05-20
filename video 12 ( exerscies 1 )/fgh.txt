@@ -1,0 +1,6 @@
+   <footer>
+        <br>
+        English | USA - Washington D.C
+        <h5>Support - Accessibility - Niupino Data Privacy Notice </h5>
+        <h5>Legal policies - Contractor roles</h5> 
+    </footer>

@@ -1,0 +1,1 @@
+alert("aja chuitye berozgar")
